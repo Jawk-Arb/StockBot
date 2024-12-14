@@ -2,6 +2,7 @@ Take company ticker as input
 
 Pull financials data from APIs:
 - yfinance
+- get historical financials
 - other sources?
 
 Run comp analysis using financials:
