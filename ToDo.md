@@ -14,6 +14,7 @@ Run technical analysis
 
 Run sentiment analysis
 - check where we can get news data
+- perplexity
 - industry & macro data
 
 Generate signal
